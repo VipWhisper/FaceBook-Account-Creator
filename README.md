@@ -4,7 +4,9 @@
 - Auto email confirmation (yopmail)
 - Mobile API
 - Support Number Confirmation
-- 100% Requests No Selenium 
+- 100% Requests No Selenium
+- Updated IN : 05-12-2023
+- Add friend/like/follow/comment/live view/live like/live comment/report
 - Contact :
   - TeleGram : https://t.me/WHI3PER
   - InstaGram : https://instagram.com/whisper_dev
