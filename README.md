@@ -5,7 +5,7 @@
 - Mobile API
 - Support Number Confirmation
 - 100% Requests No Selenium
-- Updated IN : 07-12-2023
+- Updated IN : 22-12-2023
 - Add friend/like/follow/comment/live view/live like/live comment/report
 - Contact :
   - TeleGram : https://t.me/WHI3PER
