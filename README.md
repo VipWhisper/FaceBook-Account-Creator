@@ -10,7 +10,7 @@ https://github.com/VipWhisper/FaceBook-Account-Creator/assets/149483931/e7c2c031
 - Support Number Confirmation
 - 100% Requests No Selenium
 - Work In Any Device
-- Updated IN : 28-12-2023
+- Updated IN : 08-01-2024
 - Add friend/like/follow/comment/live view/live like/live comment/report
 - Contact :
   - TeleGram : https://t.me/WHI3PER
